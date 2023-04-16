@@ -1,0 +1,20 @@
+{
+  "name": "pygame-tabs",
+  "displayName": "Pygame TABS",
+  "description": "Basic setups for pygame, type bps to see them",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
